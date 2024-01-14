@@ -80,7 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - Trailer in BackGround
     - Movie Title and Description
     - Movie Suggestions
-      - MovieList and N
+    - MovieList and N
 - NetFlixGPT
   - Search Bar
   - Movie Suggestions
